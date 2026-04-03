@@ -35,6 +35,9 @@ models/*.h5
 results/*.png
 results/*.npz
 
+# Project instructions (local only)
+CLAUDE.md
+
 # OS
 .DS_Store
 Thumbs.db
